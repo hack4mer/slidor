@@ -1,0 +1,31 @@
+{
+  "name": "slidor",
+  "version": "1.0.0",
+  "description": "A Javascript library to create sliding app-like webpages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hack4mer/slidor.git"
+  },
+  "keywords": [
+    "Slidor",
+    "JS",
+    "slider",
+    "Webpage",
+    "slider",
+    "app-like",
+    "slider"
+  ],
+  "author": "hack4mer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hack4mer/slidor/issues"
+  },
+  "homepage": "https://github.com/hack4mer/slidor#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
